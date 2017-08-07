@@ -1,0 +1,822 @@
+[
+  {
+    "id": "item_000001",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Crown Casino Melbourne operates 24 hours a day, 7 days a week with the exception of Christmas Day, Good Friday and ANZAC Day. On these days Crown is closed from 4am and re opens 12 noon."
+          }
+        ],
+        "keyword": [
+          "what time",
+          "opening hours"
+        ],
+        "hint": "What time does Crown open?",
+        "ref": "iq_000001"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Crown Entertainment Complex is located on 8 Whiteman St, Southbank Melbourne. Crown Perth is located at Great Eastern Highway, Burswood Perth."
+          }
+        ],
+        "keyword": [
+          "crown's location",
+          "location of crown",
+          "where is crown",
+          "located"
+        ],
+        "hint": "Where is crown?",
+        "ref": "iq_000002"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " You can get the information by visit the Crown Resorts website at www.crownresorts.com.au"
+          }
+        ],
+        "keyword": [
+          "annual reports",
+          "limited shares",
+          "annual report"
+        ],
+        "hint": "Where can I obtain information about Crown Limited shares and annual reports?",
+        "ref": "iq_000003"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " Please send an e-mail through contact us page. If you are under 18 years of age, please ensure that your parents/guardians are aware that you are completing a project that involves Crown."
+          }
+        ],
+        "keyword": [
+          "assignment",
+          "require information"
+        ],
+        "hint": "I am a student and require information on Crown for my assignment, what do I do?",
+        "ref": "iq_000004"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " Unfortunately, due to the high degree of restriction that applies to people under 18 years of age in our licensed gaming areas, Crown has not been able to develop the work experience program that would provide training and experience to secondary students at this time.."
+          }
+        ],
+        "keyword": [
+          "work experience program"
+        ],
+        "hint": "I am a student and would like to use Crown for my Work Experience program ",
+        "ref": "iq_000005"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " Crown Melbourne excels in delivering world-class service, premium catering and excellence in on-site technical support. Our five star facilities, attention to detail and highly trained staff make Crown the perfect choice for your next event in Melbourne. "
+          }
+        ],
+        "keyword": [
+          "convention",
+          "function",
+          "conference"
+        ],
+        "hint": "I am interested in holding a function or convention at Crown, what are my options?",
+        "ref": "iq_000006"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " Yes, there certainly is! Crown Spa Melbourne offers a superior day spa experience. From the moment you step inside, you will enjoy an exceptional level of services delivered by expertly trained therapists. Our attentive staff offer beauty and spa treatments using only the finest products. "
+          }
+        ],
+        "keyword": [
+          "spa",
+          "spy"
+        ],
+        "hint": "Is there a spa at Crown Melbourne?",
+        "ref": "iq_000007"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "The Australian Federal Government has in place the Internet Gaming Moratorium which prevents Australian casino operators from doing this."
+          }
+        ],
+        "keyword": [
+          "gamble online",
+          "online",
+          "get a bowl",
+          "get more on line",
+          "overnight",
+          "on line",
+          "campvell"
+        ],
+        "hint": "Can I gamble online with Crown Casino?",
+        "ref": "gq1479870843706"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Every hour from 9:00pm to midnight on weekdays, and from 8:00pm to Midnight on weekends."
+          }
+        ],
+        "keyword": [
+          "fireballs",
+          "fare ball",
+          "fare balls",
+          "fire boats",
+          "fire both",
+          "fare both",
+          "fare boats",
+          "fur balls",
+          "fire balls",
+          "fare box",
+          "for balls"
+        ],
+        "hint": "When are the fireballs on display?",
+        "ref": "gq1479870803953"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Crown features two car parks in Melbourne, with over 5,000 parking spaces as well as valet parking services, for your convenience."
+          }
+        ],
+        "keyword": [
+          "park my car",
+          "park"
+        ],
+        "hint": "Could you tell me how to park my car at Crown?",
+        "ref": "gq1479869614881"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "That’s great, at Crown we love to hear from our valued clients. If you would like to leave some feedback about your experience at Crown simply tell me your feedback and I will deliver it to our customer service team."
+          }
+        ],
+        "keyword": [
+          "comment"
+        ],
+        "hint": "I have a comment about my experience at Crown",
+        "ref": "gq1480484447416"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "We have three five-star luxury hotels at Crown Melbourne. You can choose to stay at either Crown Towers, Crown Metropol or Crown Promenade.  "
+          }
+        ],
+        "keyword": [
+          "hotels can i stay",
+          "hotel can i stay"
+        ],
+        "hint": "What hotels can I stay at Crown Melbourne?",
+        "ref": "gq1480481506356"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Valet parking is available at the Casino Atrium Entrance - Whiteman Street. The cost is $55 per 24-hours period. Payment is on exit. All prices include GST. Parking rates are subject to change. Crown also reserves the right to apply a $15 entry fee prior to the commencement of selected AFL, Etihad Stadium and other special events."
+          }
+        ],
+        "keyword": [
+          "valet parking",
+          "very parking",
+          "fairly parking"
+        ],
+        "hint": "Is valet parking available at Crown?",
+        "ref": "item000001q13"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Yes, absolutely! Let’s have a look at what you can expect at Crown Perth!"
+          }
+        ],
+        "keyword": [
+          "crown perth",
+          "crown purse",
+          "crown purpose",
+          "crown person",
+          "cramps",
+          "crown prince",
+          "compass",
+          "crops"
+        ],
+        "hint": "Can you show me Crown Perth?",
+        "ref": "item000001q14"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "At Crown we offer a diverse range of restaurants to cater to your every taste! Our restaurants range from premium for a complete dining experience to casual for a more relaxed atmosphere and a range of quick-bite restaurants for when you are on the go! To view our restaurants simply swipe image carousel to the left."
+          }
+        ],
+        "keyword": [
+          "what kind of restaurant",
+          "what type of restaurant",
+          "what sort of restaurant",
+          "what kinds of restaurant",
+          "what types of restaurant",
+          "what sorts of restaurant",
+          "what restaurants are there",
+          "what restaurants do you have",
+          "what food is there",
+          "where can i eat",
+          "what kind of cuisine",
+          "what kind of crazy",
+          "what kind of cuisines",
+          "what type of cuisine",
+          "what type of crazy",
+          "what type of cuisines",
+          "what kinds of cuisine",
+          "what kinds of crazy",
+          "what kinds of cuisines",
+          "what types of cuisine",
+          "what types of crazy",
+          "what types of cuisines",
+          "what type of food",
+          "what kind of food",
+          "what sort of food",
+          "what types of food",
+          "what kinds of food",
+          "what sorts of food",
+          "show me restaurant",
+          "show us restaurant",
+          "browse restaurant",
+          "get something to eat",
+          "where can i go to eat",
+          "i'm hungry",
+          "i am hungry",
+          "take me to the restaurant",
+          "take me to the restaurant",
+          "dine",
+          "dinning",
+          "get food",
+          "food option"
+        ],
+        "hint": "What kinds of restaurants can I find in Crown?",
+        "ref": "item_000002q01"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "That's good question. I provide interactive services and accurate information of your city to the end user, such as frequent asked questions, emergency alert, wayfinding system and etc.  Through my services, users will truly experience the greatness of your city. Moreover, I will help you to better understand people living and traveling in your city."
+          }
+        ],
+        "keyword": [
+          "urban life",
+          "urban live"
+        ],
+        "hint": "How can you improve quality of urban life, Maggie?",
+        "ref": "item_000002q15"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "If you haven't been to the Sydney Opera House yet, you should definitely go there and have a look. I would take a ferry from Darling Harbour and enjoy the great view."
+          }
+        ],
+        "keyword": [
+          "visit"
+        ],
+        "hint": "Where should I visit in Sydney, Maggie?",
+        "ref": "item_000002q16"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "A daily ticket is just $15 for adult and $7.50 for child. However, in Sydney you will need a Opal card to travel on all public transport. You can buy it from newsagents and convenience stores."
+          }
+        ],
+        "keyword": [
+          "how much is the ticket",
+          "how much for the ticket",
+          "how much does the ticket cost"
+        ],
+        "hint": "How much is the ticket?",
+        "ref": "item_000002q17"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Please stay calm, I'm contacting closest police station with your situation. They will be here soon."
+          }
+        ],
+        "keyword": [
+          "find my son"
+        ],
+        "hint": "I can't find my son, can you help me?",
+        "ref": "item_000002q18"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "You are welcomed, I'm glad you like my service. Thank you for the feedback, I wish to see you again."
+          }
+        ],
+        "keyword": [
+          "thank you",
+          "helpful"
+        ],
+        "hint": "Thank you so much, Maggie. You have been really helpful.",
+        "ref": "item_000002q19"
+      }
+    ]
+  },
+  {
+    "id": "item_000002",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "At Crown we offer a diverse range of restaurants to cater to your every taste! Our restaurants range from premium for a complete dining experience to casual for a more relaxed atmosphere and a range of quick-bite restaurants for when you are on the go! "
+          }
+        ],
+        "keyword": [
+          "what kind",
+          "what type",
+          "what kinds"
+        ],
+        "hint": "What kinds of restaurants can I find in Crown?",
+        "ref": "item_000002q01"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "There are 29 restaurants in Crown."
+          }
+        ],
+        "keyword": [
+          "How many restaurants"
+        ],
+        "hint": "How many restaurants are there in Crown?",
+        "ref": "item_000002q02"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Crown restaurants offer an enticing array of global cuisines including modern Australian, French, Chinese, Malaysian and Japanese. The choice is yours!"
+          }
+        ],
+        "keyword": [
+          "cuisines",
+          "cuisine",
+          "crazy"
+        ],
+        "hint": "What cuisines can I find in Crown?",
+        "ref": "item_000002q03"
+      }
+    ]
+  },
+  {
+    "id": "item_000003",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Crown has 14 bars and 4 premier nightclubs."
+          }
+        ],
+        "keyword": [
+          "how many bars",
+          "how many nightclubs"
+        ],
+        "hint": "How many bars and nightclubs are there in Crown?",
+        "ref": "item_000003q01"
+      }
+    ]
+  },
+  {
+    "id": "item_000004",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Yes, At Crown, you will find everything you need to create a truly unique wedding day.From our world, renowned chefs and some of the most stunning wedding venues in Melbourne, to luxurious hotels and indulgent day spas, we have everything you need to create the perfect day."
+          }
+        ],
+        "keyword": [
+          "hold a wedding"
+        ],
+        "hint": " Can I hold a wedding in Crown?",
+        "ref": "iq_000001"
+      }
+    ]
+  },
+  {
+    "id": "item_000005",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "The Atlantic is open 7 days a week from 12pm - 3pm for Lunch. And 7 days a week from 6pm - 11pm for dinner."
+          }
+        ],
+        "keyword": [
+          "opening hour",
+          "opening hours"
+        ],
+        "hint": "What is the opening hour of the Atlantic?",
+        "ref": "iq_000001"
+      }
+    ]
+  },
+  {
+    "id": "item_000006",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Sunday to Friday from 12pm to 3pm for lunch. And 7 days a week from 6pm - 11pm for dinner"
+          }
+        ],
+        "keyword": [
+          "opening hour",
+          "opening hours"
+        ],
+        "hint": "What is the opening hour of Rockpool Bar & Grill?",
+        "ref": "iq_000001"
+      }
+    ]
+  },
+  {
+    "id": "item_000007",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Monday to Thursday: 5pm - 10pm. Friday & Saturday: 12pm - 10:30pm. Sunday: 12pm - 10pm"
+          }
+        ],
+        "keyword": [
+          "opening hour",
+          "opening hours"
+        ],
+        "hint": "What is the opening hour of The Merrywell",
+        "ref": "iq_000001"
+      }
+    ]
+  },
+  {
+    "id": "item_000008",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Monday to Sunday: 12pm - 2:30pm for lunch. And for dinner it is from 6pm to 10pm on Sunday to Thursday and 6pm to 10.30 pm for the rest of the week."
+          }
+        ],
+        "keyword": [
+          "what time",
+          "open",
+          "close",
+          "sunday",
+          "saturday",
+          "friday",
+          "thursday",
+          "wednesday",
+          "tuesday",
+          "monday"
+        ],
+        "hint": "What is the opening hour of Silks?",
+        "ref": "iq_000001"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Well,  Silks currently has a special offer called the Express Lunch. The Express Lunch is $40 per person for two courses including matching beverages. The offer is available from 31st March to the 7th of April 2017, bookings are not required."
+          }
+        ],
+        "keyword": [
+          "offer",
+          "special",
+          "promotion",
+          "discount",
+          "voucher",
+          "information",
+          "what else",
+          "book",
+          "reserv",
+          "lunch",
+          "dinner"
+        ],
+        "hint": "Does Silks have special offers recently?",
+        "ref": "iq_000002"
+      }
+    ]
+  },
+  {
+    "id": "item_000009",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Monday to Friday: 6:30am - 10:30am. Saturday to Sunday: 7am - 10:30am"
+          }
+        ],
+        "keyword": [
+          "opening hour for breakfast"
+        ],
+        "hint": "What is conservatory opening hour for Breakfast?",
+        "ref": "iq_000001"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Monday to Saturday: 12pm - 2:30pm.Sunday: 12pm - 3:00pm"
+          }
+        ],
+        "keyword": [
+          "opening hour for Lunch"
+        ],
+        "hint": "What is conservatory opening hour for Lunch?",
+        "ref": "iq_000002"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Saturday: 3pm - 5pm. Sunday: 3:30pm - 5:30pm"
+          }
+        ],
+        "keyword": [
+          "opening hour for afternoon tea"
+        ],
+        "hint": "What is conservatory opening hour for afternoon tea?",
+        "ref": "iq_000003"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Sunday to Thursday: 6pm - 10pm.Friday & Saturday Pre-theatre: 5:30pm - 8pm.Friday & Saturday Main Dining: 8:30pm - 11pm."
+          }
+        ],
+        "keyword": [
+          "opening hour for dinner"
+        ],
+        "hint": "What is conservatory opening hour for dinner?",
+        "ref": "iq_000004"
+      }
+    ]
+  },
+  {
+    "id": "item_000010",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Nine thirty pm to one thirty am on Thursday, and seven thirty pm to two am on Friday and Saturday"
+          }
+        ],
+        "keyword": [
+          "opening hours"
+        ],
+        "hint": "What is Groove's opening hours?",
+        "ref": "item_000010q01"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "You can enjoy days when the music was loud and the hair was big and when electro-pop met power ballads."
+          }
+        ],
+        "keyword": [
+          "enjoy"
+        ],
+        "hint": "What can I enjoy at Groove?",
+        "ref": "item_000010q02"
+      }
+    ]
+  },
+  {
+    "id": "item_000011",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Inside River Room, you’ll discover superbly appointed interiors, designed to hold up to 200 guests, with exceptional floor to ceiling windows letting in ample natural light."
+          }
+        ],
+        "keyword": [
+          "ornament"
+        ],
+        "hint": "What is River Room's ornament like?",
+        "ref": "item_000011q01"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "The River Room offers the ultimate in flexibility; it can be partitioned into three separate sections or used as a single space."
+          }
+        ],
+        "keyword": [
+          "partitioned",
+          "partition"
+        ],
+        "hint": "Can River Room be partitioned?",
+        "ref": "item_000011q02"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "The River Room also has state-of-the-art audio visual facilities and modern, adjustable lighting."
+          }
+        ],
+        "keyword": [
+          "facilities",
+          "facility"
+        ],
+        "hint": "What facilities does River Room have?",
+        "ref": "item_000011q03"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "At night, it really comes alive. You and your guests can truly enjoy the stylish private balcony, overlooking the sparkling Melbourne skyline and Crown’s signature flame towers. "
+          }
+        ],
+        "keyword": [
+          "vicinity",
+          "scenery",
+          "facility like"
+        ],
+        "hint": "What is River Rooms's outer vicinity like?",
+        "ref": "item_000011q04"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "River Room was designed to hold up 270 guests for any seated function. It can also be reconfigured to create a space for a dinner, wedding reception, awards dinner, product launch or business breakfast."
+          }
+        ],
+        "keyword": [
+          "occasions",
+          "occasion"
+        ],
+        "hint": "What occasions can River Room be used for?",
+        "ref": "item_000011q05"
+      }
+    ]
+  },
+  {
+    "id": "item_000012",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Yes, At Crown, you will find everything you need to create a truly unique wedding day.From our world, renowned chefs and some of the most stunning wedding venues in Melbourne, to luxurious hotels and indulgent day spas, we have everything you need to create the perfect day."
+          }
+        ],
+        "keyword": [
+          "hold a wedding"
+        ],
+        "hint": " Can I hold a wedding in Crown?",
+        "ref": "iq_000001"
+      }
+    ]
+  },
+  {
+    "id": "item_000013",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Guests can enjoy the 25 metre heated pool. Two rebound-ace tennis courts are located on the rooftop garden. Crown Towers also boasts the ultimate exercise experience with one of the best equiped and technologically advanced gym in the Southern Hemisphere. "
+          }
+        ],
+        "keyword": [
+          "sports facilities",
+          "sport",
+          "facility",
+          "facilities",
+          "fitness",
+          "exercise"
+        ],
+        "hint": "Are there any sports facilities in the hotel",
+        "ref": "iq_000001"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "We have free wireless network for you in the room"
+          }
+        ],
+        "keyword": [
+          "network",
+          "wireless",
+          "wifi"
+        ],
+        "hint": "Is there a free wi-fi in the room? ",
+        "ref": "iq_000002"
+      }
+    ]
+  },
+  {
+    "id": "item_000014",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "With seven traditional cinemas and six fully-licensed Gold Class cinemas, you can experience the ultimate in cinema luxury during your stay at Crown Metropol Melbourne."
+          }
+        ],
+        "keyword": [
+          "cinema",
+          "movie"
+        ],
+        "hint": "Is there a cinema in the hotel?",
+        "ref": "iq_000001"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": "Located on level 27, the 25 metre indoor pool offers unparalleled views across Melbourne CBD."
+          }
+        ],
+        "keyword": [
+          "swimming"
+        ],
+        "hint": "where is the swimming pool located?",
+        "ref": "iq_000002"
+      }
+    ]
+  },
+  {
+    "id": "item_000015",
+    "questions": [
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " The Crown Promenade Melbourne gymnasium offers a full range of gym and fitness equipment, including treadmills and spinning bikes, as well as a range of weight machines and free weights."
+          }
+        ],
+        "keyword": [
+          "facilities"
+        ],
+        "hint": "What facilities does the hotel gym have？",
+        "ref": "iq_000001"
+      },
+      {
+        "answer": [
+          {
+            "ansType": "speak",
+            "ans": " Crown Spa Melbourne is undeniably Australia's most exclusive and sophisticated day spa with tranquil surrounds, relaxing décor and the ultimate in private pampering suites."
+          }
+        ],
+        "keyword": [
+          "spa"
+        ],
+        "hint": "I want have a spa.",
+        "ref": "iq_000002"
+      }
+    ]
+  }
+]
